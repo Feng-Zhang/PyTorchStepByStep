@@ -1,3 +1,4 @@
+
 # Deep Learning with PyTorch Step-by-Step
 
 [![](images/new_books.png)](https://pytorchstepbystep.com)
@@ -66,6 +67,12 @@ Please follow **the installation instructions** for your OS:
 - [Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
 Make sure you choose **Python 3.X** version since Python 2 was discontinued in January 2020.
+
+** 2 - install enviroment.yml**
+如果执行这一步，可以跳过剩下的步骤。
+```
+mamba create -f environment.yml
+```
 
 **2 - Conda (Virtual) Environments**
 
